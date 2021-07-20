@@ -1,0 +1,16 @@
+{
+    "name": "alex-rysaev/hexlet-php",
+    "description": "Hexlet PHP Package",
+    "autoload": {
+        "psr-4": {
+            "AlexRysaev\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Rysaev",
+            "email": "alex.rysaev@yandex.com"
+        }
+    ],
+    "require": {}
+}
